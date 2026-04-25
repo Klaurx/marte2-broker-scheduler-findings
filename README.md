@@ -26,4 +26,4 @@ Two additional candidates were identified and eliminated after adversarial revie
 
 ## Methodology
 
-All findings were derived from source code only. No assumption was made about behavior not visible in the examined files. Each finding was attacked before being reported — candidates that did not survive that process were discarded.
+All findings were derived from source code only. No assumption was made about behavior not visible in the examined files. Each finding was attacked before being reported candidates that did not survive that process were discarded.
